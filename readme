@@ -1,0 +1,10 @@
+ plot a line chart of frequency(y-axis) vs file types(x-axis) is graph/freqvstypes.py
+
+ plot a pie chart of files vs file size is graph/filevssize.py
+
+ Note:python 2.7 , python-matplotlib used to plot the graphs 
+
+
+django there is 2 urls /files/frequency , files/sizes , both will return respective JSON data as response
+
+ Note:python2.7 ,Django version 1.5.11 used to build REST API calls
